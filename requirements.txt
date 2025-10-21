@@ -1,0 +1,5 @@
+streamlit>=1.38
+supabase>=2.7.4
+pandas
+python-dotenv
+requests
